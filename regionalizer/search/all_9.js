@@ -1,0 +1,17 @@
+var searchData=
+[
+  ['operator_25',['operator%',['../classRegion.html#a201d4b47208729efbf5f5b488f02a93d',1,'Region::operator%(const Region &amp;)=delete'],['../classRegion.html#ab695c74096ba6395eb9c0a1c1e589f0b',1,'Region::operator%(const City &amp;)=delete']]],
+  ['operator_2a',['operator*',['../classRegion.html#ac6b1227016bce390c44449ea51db4461',1,'Region::operator*(const Region &amp;) const =delete'],['../classRegion.html#ab643f17e4528fc6a418bbea4063cba36',1,'Region::operator*(const City &amp;) const =delete']]],
+  ['operator_2a_3d',['operator*=',['../classRegion.html#a8851abb1b3b98444880f6ae7dd176bfc',1,'Region::operator*=(const Region &amp;)=delete'],['../classRegion.html#ad386be2cc8afb29b2f0d9af950f098ea',1,'Region::operator*=(const City &amp;)=delete']]],
+  ['operator_2b',['operator+',['../classRegion.html#ac8d3c85c6fdc529c71fe89e37d58d90c',1,'Region::operator+(const Region &amp;) const'],['../classRegion.html#a40d0c5fc34f5add9307a70b3ff186580',1,'Region::operator+(const City &amp;) const']]],
+  ['operator_2b_3d',['operator+=',['../classRegion.html#a99be5c8f607f6775d7563c13894d569c',1,'Region::operator+=(const Region &amp;)'],['../classRegion.html#ac74cbb5a5b23cbbaf225d1342493b3bd',1,'Region::operator+=(const City &amp;)']]],
+  ['operator_2d',['operator-',['../classRegion.html#acd6c742e186f94779f9e2becadd0f4a4',1,'Region::operator-(const Region &amp;) const =delete'],['../classRegion.html#a201ad991750e6370584865d25874931b',1,'Region::operator-(const City &amp;) const =delete']]],
+  ['operator_2d_3d',['operator-=',['../classRegion.html#a48eefe3270aaa79bc6345ac64b8717b7',1,'Region::operator-=(const Region &amp;)=delete'],['../classRegion.html#a9d714a27c1505822d4225c65d6750a39',1,'Region::operator-=(const City &amp;)=delete']]],
+  ['operator_2f',['operator/',['../classRegion.html#a463afddfc89af05031a24a46ca5c4b0c',1,'Region::operator/(const Region &amp;) const =delete'],['../classRegion.html#a885a4ad51f5a413b15c9c9e81de94cc0',1,'Region::operator/(const City &amp;) const =delete']]],
+  ['operator_2f_3d',['operator/=',['../classRegion.html#ac73bd4824a9a8ae0f534362448ac5fa9',1,'Region::operator/=(const Region &amp;)=delete'],['../classRegion.html#a20d8d495316ca949ff68072059dff0d1',1,'Region::operator/=(const City &amp;)=delete']]],
+  ['operator_3c',['operator&lt;',['../classRegion.html#aeaff8fa0bb2746f18ad40fa9f54b0a3e',1,'Region::operator&lt;(const Region &amp;)=delete'],['../classRegion.html#af8d45465d0910776ba15ecf0eebc15f3',1,'Region::operator&lt;(const City &amp;)=delete']]],
+  ['operator_3c_3d',['operator&lt;=',['../classRegion.html#ad77c23c86a1e8241d3f79dcbc93e352c',1,'Region::operator&lt;=(const Region &amp;)=delete'],['../classRegion.html#a83a6c162e2e7b10802a310a5d6b54bb8',1,'Region::operator&lt;=(const City &amp;)=delete']]],
+  ['operator_3d_3d',['operator==',['../classRegion.html#aa7e372d9fb29c3fe93257b32e75c61df',1,'Region::operator==(const Region &amp;)=delete'],['../classRegion.html#a72d8ec631fb420ae084c2610e0588c39',1,'Region::operator==(const City &amp;)=delete']]],
+  ['operator_3e',['operator&gt;',['../classRegion.html#a62c2762decfc86e7e7bcfae11fdf378b',1,'Region::operator&gt;(const Region &amp;)=delete'],['../classRegion.html#a76eb2fc07aeeb29f55e39c23096acf0b',1,'Region::operator&gt;(const City &amp;)=delete']]],
+  ['operator_3e_3d',['operator&gt;=',['../classRegion.html#a65f8e145b6a9689397900072effc8e1c',1,'Region::operator&gt;=(const Region &amp;)=delete'],['../classRegion.html#aa4951abfe803f30acac6ee93fef1cd44',1,'Region::operator&gt;=(const City &amp;)=delete']]]
+];
